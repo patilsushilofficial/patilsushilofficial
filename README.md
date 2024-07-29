@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 👯 **Looking to collaborate on**: Open source projects and hackathons
 - 💬 **Ask me about**: React, React Native and JavaScript
 - 📫 **How to reach me**: [Email](mailto:patilsushilofficial@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sushil-k-patil/)
-- ⚡ **Fun fact**: I love solving puzzles and playing chess in my free time!
+- ⚡ **Fun fact**: I love watching science fiction movies in my free time
 
 ## 🛠️ Skills
 
