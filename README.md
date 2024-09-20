@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 📝 Projects
 
 ### [Sorting Visualizer](https://github.com/patilsushilofficial/sorting-visualizer)
-A React Native app that visualizes various sorting algorithms. Interactive UI, adjustable speed, and more!
+A React Native app that visualizes various sorting algorithms. Interactive UI, and more!
 
 ## 📊 GitHub Stats
 
