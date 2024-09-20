@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🚀 About Me
 
 - 🔭 **Currently working on**: [Sorting Visualizer](https://github.com/patilsushilofficial/sorting-visualizer)
-- 🌱 **Learning more about**: Advanced React Native
+- 🌱 **Learning more about**: Front End Web Development - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ,  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) and ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - 👯 **Looking to collaborate on**: Open source projects and hackathons
 - 💬 **Ask me about**: React, React Native and JavaScript
 - 📫 **How to reach me**: [Email](mailto:patilsushilofficial@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sushil-k-patil/)
