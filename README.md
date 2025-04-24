@@ -28,11 +28,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📝 Projects
-
-### [Sorting Visualizer](https://github.com/patilsushilofficial/sorting-visualizer)
-A React Native app that visualizes various sorting algorithms. Interactive UI, and more!
-
 ## 📊 GitHub Stats
 
 ![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=patilsushilofficial&show_icons=true&theme=radical)
