@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a results-driven **Frontend Developer with 3.5+ years 
 - 🌍 **Cross-platform Development**: Building seamless user experiences with **React Native** on iOS and Android
 - 🔗 **Familiar Backend Stack**: Comfortable working with **Node.js**, **Express**, **MongoDB**, and **SQL** for full-stack integration
 - 📈 **Clean Code Advocate**: Committed to writing maintainable, testable code following modern development best practices
-- 👥 **Team Player**: Agile collaborator in cross-functional teams and open source communities
+- 👥 **Team Player**: Agile collaborator in cross-functional teams.
 - 💬 **Ask me about**: Architecture patterns in React/React Native, performance optimization, or modern JavaScript
 
 ---
