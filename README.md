@@ -1,6 +1,6 @@
 # Hi there, I'm Sushil Patil! 👋
 
-Welcome to my GitHub! I’m a **Frontend Engineer (React & React Native) with 3.5+ years of experience**, focused on building fast, scalable, and user-friendly Web & Mobile applications.
+I’m a **Frontend Engineer (React & React Native) with 3.5+ years of experience**, focused on building fast, scalable, and user-friendly applications for both Web and Mobile platforms.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=patilsushilofficial&color=brightgreen)
 
@@ -8,21 +8,21 @@ Welcome to my GitHub! I’m a **Frontend Engineer (React & React Native) with 3.
 
 ## 🚀 About Me
 
-- ⚡ **Specializing in**: React, React Native, JavaScript (ES6+), modern frontend and mobile architectures  
-- 📱 **Cross-Platform App Developer**: High-quality iOS & Android apps using React Native  
-- 🌐 **Full-Stack Capable**: Node.js, Express, MongoDB, SQL, and **GraphQL (API design + integration)**  
-- 🧩 **Architecture Focused**: Redux Toolkit, Context API, scalable folder structures, offline-first systems  
-- 🧪 **Quality + Performance**: Testable, maintainable, production-grade code  
-- 🤝 **Team Player**: Agile/Scrum workflows, code reviews, pair programming  
+- ⚡ **Core Expertise**: React, React Native, JavaScript (ES6+), scalable frontend architectures  
+- 📱 **Mobile Development**: Production-grade iOS & Android apps with React Native  
+- 🌐 **Full-Stack Capable**: Node.js, Express, MongoDB, SQL, and **GraphQL**  
+- 🧩 **Architecture Focus**: Redux Toolkit, Context API, offline-first systems, component-driven development  
+- 🧪 **Clean Code Advocate**: Maintainable, testable, high-performance code  
+- 🤝 **Team Player**: Strong communicator, Agile/Scrum experience, peer reviews  
 - 💬 **Ask me about**:  
-  - DDD in React Native  
-  - GraphQL queries, schema design, and caching  
-  - Scalable React Native architecture  
-  - App performance optimization  
+  - React Native architecture and performance  
+  - GraphQL design, queries, caching  
+  - DDD principles in React Native  
+  - Scalable design systems and folder structures  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Frontend  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ Welcome to my GitHub! I’m a **Frontend Engineer (React & React Native) with 3.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧰 Tools & Workflow  
+### 🧰 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -47,10 +47,11 @@ Welcome to my GitHub! I’m a **Frontend Engineer (React & React Native) with 3.
 
 ## 🏆 Highlights
 
-- Built **production-grade mobile apps** used by thousands  
-- Integrated **complex REST & GraphQL APIs** with optimized queries and caching  
-- Designed **offline-first**, highly performant, scalable mobile architectures  
-- Strong understanding of frontend design systems & component-driven development  
+- Developed **end-to-end mobile apps** serving thousands of users  
+- Integrated **REST + GraphQL APIs** with optimized queries and caching  
+- Designed **scalable, production-ready architectures** for Web and Mobile  
+- Experienced in **performance optimization**, offline support, and complex UI  
+- Strong understanding of clean coding, testing, and React Native best practices  
 
 ---
 
@@ -58,21 +59,6 @@ Welcome to my GitHub! I’m a **Frontend Engineer (React & React Native) with 3.
 
 ![Sushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=patilsushilofficial&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patilsushilofficial&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=patilsushilofficial&theme=radical&no-frame=true&margin-w=10)
-
----
-
-## 🌀 3D Contribution Graph  
-![3D Contributions](https://github.com/patilsushilofficial/patilsushilofficial/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🐍 Animated Contribution Snake  
-![Snake animation](https://github.com/patilsushilofficial/patilsushilofficial/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -84,5 +70,5 @@ Welcome to my GitHub! I’m a **Frontend Engineer (React & React Native) with 3.
 
 ---
 
-Thanks for stopping by!  
-**Let’s build something impactful together. 🚀**
+Thanks for visiting my profile!  
+**Let’s build something impactful together 🚀**
